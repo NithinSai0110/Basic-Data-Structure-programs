@@ -7,3 +7,4 @@
 7.linear search
 8.stack algorithm
 9.binary searching
+10.insertion sort
