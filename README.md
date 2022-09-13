@@ -5,3 +5,4 @@
 5.fibonacci using recursion
 6.Fibonacci without recursion
 7.linear search
+8.stack algorithm
