@@ -6,4 +6,4 @@
 6.Fibonacci without recursion
 7.linear search
 8.stack algorithm
-\n9.binary searching
+9.binary searching
