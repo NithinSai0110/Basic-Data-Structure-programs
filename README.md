@@ -9,3 +9,5 @@
 9.binary searching.
 10.insertion sort.
 11.insertion/delition/display operations.
+12.merge sort
+13.ouick sort
